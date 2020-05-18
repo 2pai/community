@@ -262,7 +262,7 @@ Untuk informasi lebih lanjut, baca [Panduan _Testing_].
 
 Kubernetes menggunakan [label] untuk melakukan kategorisasi 
 dan triase isu dan PR. Penggunaan label yang benar akan membuat triase 
-pada isu atau PR yang kamu ajukan menjadi lebih efektif.
+pada isu atau *Pull Request* yang kamu ajukan menjadi lebih efektif.
 
 **Referensi:**
 - [Label]
